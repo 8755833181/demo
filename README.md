@@ -1,2 +1,3 @@
 # demo
-This is my first repository .Author - Rohit Kumar
+This is my first repository 
+Author - Rohit Kumar
